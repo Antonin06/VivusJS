@@ -1,0 +1,26 @@
+body {
+	//background-color: $black !important;
+	//color: $white !important;
+}
+p {
+	margin-bottom: 0 !important;
+}
+.main {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	svg *{
+		stroke: blue;
+		fill: $white;
+	}
+	.svgs {
+		display: flex;
+	}
+	.obturateur {
+		stroke-width: 3;
+		stroke-miterlimit: 10;
+	}
+}
