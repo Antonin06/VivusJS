@@ -11,7 +11,3 @@
 
 - **`gulp build`**
   Compilation des fichiers **scss** et **js**
-# VivusJS
-# VivusJS
-# VivusJS
-# VivusJS
